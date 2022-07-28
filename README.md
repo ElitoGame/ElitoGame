@@ -20,3 +20,7 @@ I've been working with minecraft commands and plugins for the past 3 years and r
 I made a simple Portfolio Website, you can find it over at this [link](https://elitogame.github.io)!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElitoGame&repo=elitogame.github.io&theme=dark&title_color=33dd33&count_private=true&show_icons=true&hide_border=true)](https://github.com/ElitoGame/elitogame.github.io)
+
+Using the Lively Software, I created a custom web based background that shows my current system performance, as well as visualizes my Audio.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElitoGame&repo=TheOutpost-Wallpaper&theme=dark&title_color=33dd33&count_private=true&show_icons=true&hide_border=true)](https://github.com/ElitoGame/elitogame.github.io)
