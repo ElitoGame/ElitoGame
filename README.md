@@ -32,7 +32,7 @@ Together with some friends, I've participated in 3 Game Jams so far:
 
 ### Minecraft
 
-I've been working with minecraft commands and plugins for the past 3 years and recently started working on a open source Project - [EzChestShop](https://www.spigotmc.org/resources/ez-chest-shop-ecs-1-14-x-1-17-x.90411/). Before, I have mostly been coding for the [Kineticraft](https://sites.google.com/kineticraft.net/kc-policy/home) minecraft server [IP: kineticraft.net]. Feel free to join and say hello! 👋
+I've been working with minecraft commands and plugins for the past 3 years and recently started working on a open source Project - [EzChestShop](https://www.spigotmc.org/resources/ez-chest-shop-ecs-1-14-x-1-17-x.90411/). Before, I have mostly been coding for the [Kineticraft](https://sites.google.com/kineticraft.net/kc-policy/home) minecraft server [IP: kineticraftreborn.net]. Feel free to join and say hello! 👋
 
 ![Spiget Downloads](https://img.shields.io/spiget/downloads/90411)
 
