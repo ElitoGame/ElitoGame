@@ -7,15 +7,24 @@ I'm a Software Engineering and Design Student. I love games, coding, sci-fi and 
 ## Projects
 
 ### Web
-
+#### Portfolio
 Check out my [Portfolio Website](https://elitogame.github.io), to see even more projects! !
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElitoGame&repo=elitogame.github.io&theme=dark&title_color=33dd33&count_private=true&show_icons=true&hide_border=true)](https://github.com/ElitoGame/elitogame.github.io)
 
+#### HexaLaunch
 Using Tauri, I and a 2 fellow students made a windows desktop app to quickly launch various apps! Download it from GitHub or via our [Website](https://hexalaunch.vercel.app)!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElitoGame&repo=HexaLaunch&theme=dark&title_color=33dd33&count_private=true&show_icons=true&hide_border=true)](https://github.com/ElitoGame/HexaLaunch)
 
+#### MCdle
+A wordle/LoLdle inspired minecraft block/item/mob guessing game! New riddles daily =D Check it out [here](https://mcdle.net)!
+
+![Block Guesses](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbwYzpm-Lk7YM25VWsNYWwkkaV1LmhmWWmAYkhuFOV3gAv9BITEpAJqxtItOu4IPxfFN%2Fexec%3Ftype%3Dblock&query=%24.totalGuessers&label=Block%20Guesses)
+![Item Guesses](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbwYzpm-Lk7YM25VWsNYWwkkaV1LmhmWWmAYkhuFOV3gAv9BITEpAJqxtItOu4IPxfFN%2Fexec%3Ftype%3Ditem&query=%24.totalGuessers&label=Item%20Guesses)
+![Mob Guesses](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbwYzpm-Lk7YM25VWsNYWwkkaV1LmhmWWmAYkhuFOV3gAv9BITEpAJqxtItOu4IPxfFN%2Fexec%3Ftype%3Dmob&query=%24.totalGuessers&label=Mob%20Guesses)
+
+#### Solid Gallery
 solid-gallery is my first npm package and provides a simple way to create various image components like a gallery or a slider. Check it out on [npm](https://www.npmjs.com/package/solid-gallery) or on [GitHub](https://github.com/ElitoGame/solid-gallery)
 
 ![npm](https://img.shields.io/npm/dt/solid-gallery)
