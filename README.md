@@ -4,6 +4,8 @@ I'm a Software Engineering and Design Student. I love games, coding, sci-fi and 
 
 [![ElitoGame's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElitoGame&theme=dark&title_color=33dd33&count_private=true&show_icons=true&hide_border=true)](https://github.com/ElitoGame)
 
+![profile_views](https://komarev.com/ghpvc/?username=ElitoGameq&style=flat&label=Profile+views+since+29/10/2023&color=brightgreen)
+
 ## Projects
 
 ### Web
@@ -20,9 +22,11 @@ Using Tauri, I and a 2 fellow students made a windows desktop app to quickly lau
 #### MCdle
 A wordle/LoLdle inspired minecraft block/item/mob guessing game! New riddles daily =D Check it out [here](https://mcdle.net)!
 
-![Block Guesses](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbwYzpm-Lk7YM25VWsNYWwkkaV1LmhmWWmAYkhuFOV3gAv9BITEpAJqxtItOu4IPxfFN%2Fexec%3Ftype%3Dblock&query=%24.totalGuessers&label=Block%20Guesses)
-![Item Guesses](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbwYzpm-Lk7YM25VWsNYWwkkaV1LmhmWWmAYkhuFOV3gAv9BITEpAJqxtItOu4IPxfFN%2Fexec%3Ftype%3Ditem&query=%24.totalGuessers&label=Item%20Guesses)
-![Mob Guesses](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbwYzpm-Lk7YM25VWsNYWwkkaV1LmhmWWmAYkhuFOV3gAv9BITEpAJqxtItOu4IPxfFN%2Fexec%3Ftype%3Dmob&query=%24.totalGuessers&label=Mob%20Guesses)
+Today's win stats since midnight UTC:
+
+![Block](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbwYzpm-Lk7YM25VWsNYWwkkaV1LmhmWWmAYkhuFOV3gAv9BITEpAJqxtItOu4IPxfFN%2Fexec%3Ftype%3Dblock&query=%24.totalGuessers&label=Block%20Guesses)
+![Item](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbwYzpm-Lk7YM25VWsNYWwkkaV1LmhmWWmAYkhuFOV3gAv9BITEpAJqxtItOu4IPxfFN%2Fexec%3Ftype%3Ditem&query=%24.totalGuessers&label=Item%20Guesses)
+![Mob](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbwYzpm-Lk7YM25VWsNYWwkkaV1LmhmWWmAYkhuFOV3gAv9BITEpAJqxtItOu4IPxfFN%2Fexec%3Ftype%3Dmob&query=%24.totalGuessers&label=Mob%20Guesses)
 
 #### Solid Gallery
 solid-gallery is my first npm package and provides a simple way to create various image components like a gallery or a slider. Check it out on [npm](https://www.npmjs.com/package/solid-gallery) or on [GitHub](https://github.com/ElitoGame/solid-gallery)
